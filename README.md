@@ -8,7 +8,7 @@ Why don't you take a look at some of my experiments and projects?
 
 For more serious stuff, take a look at my [professional repositories](https://github.com/fiotti?tab=repositories).
 
-In preparation for GitHub's dark future you can also find my stuff on my [Forgejo forge](https://git.fabioiotti.com/bruce965), self-hosted on a tiny PC in my attic. (Very slow!)
+In preparation for GitHub's dark future you can also find my stuff on my [Forgejo](https://git.fabioiotti.com/bruce965), self-hosted on a tiny PC in my attic. (Very slow!)
 
 If you have questions, feel free to contact me at _info [at] fabioiotti [do​t] com_ or by opening an issue on my repos.\
 If you like my work, please leave a ⭐ to give me a little dopamine boost!
